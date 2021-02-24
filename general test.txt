@@ -1,0 +1,6 @@
+1. sebuah standart untuk pertukaran data antara kedua belah pihak secara aman. jwt berfungsi sebagai encode data informasi yang akan dikirimkan menggunakan algoritma bawaan yang ada pada library tersebut.
+UI -> mengedepankan desain yang minimalis, mudah dipakai dan ikon-ikonnya memiliki daya fungsi yang jelas sehingga tidak membingungkan pengguna saat mengoprasikan aplikasi. keamanan -> menerapkan sejumlah langkah pengamanan data yang baik dan memadai pada aplikasi yang akan dibuat. maintenance -> mengetahui tujuan membuat aplikasi juga akan membantu proses kerja tim agar senantiasa terarah dan tepat sasaran.
+untuk saat ini saya belum pernah menggunaka metodologi sprint.
+kesulitan pasti ada, biasanya saya mencari solusi dengan cara membaca artikel yang disediakan om google.
+iya, biasanya saya menggunakan context manager untuk melakukan penyimpanan string dalam sebuah file.
+pernah, untuk membuat cointainer dengan menggunakan command sebagai berikut: "sudo docker run --name myContainer MyImage"
